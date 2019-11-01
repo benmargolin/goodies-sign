@@ -1,0 +1,4 @@
+{
+  "name": "Firebase",
+  "connector": "loopback-connector-realtime-database"
+}

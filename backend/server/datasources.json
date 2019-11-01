@@ -1,0 +1,8 @@
+{
+  "Firebase": {
+    "name": "Firebase",
+    "projectId": "goodiessign",
+    "clientEmail": "goodiessign@appspot.gserviceaccount.com",
+    "databaseName": "goodiessign"
+  }
+}
